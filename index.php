@@ -266,9 +266,9 @@ if ($errorcount>0)
 	<?php  $creator->CreateXY(array($outSensor,$inSensor, $box1Sensor,$box2Sensor), 3); ?>
 
 
-	<?php  $creator->CreateXY(array($outSensor,$inSensor, $box1Sensor,$box2Sensor), 24); ?>
+	<?php  //$creator->CreateXY(array($outSensor,$inSensor, $box1Sensor,$box2Sensor), 24); ?>
 
-	<?php  $creator->CreateXY(array($outSensor,$inSensor, $box1Sensor,$box2Sensor), 24*4); ?>
+	<?php  //$creator->CreateXY(array($outSensor,$inSensor, $box1Sensor,$box2Sensor), 24*4); ?>
 
 
 <div class="container"><hr>
